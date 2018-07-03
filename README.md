@@ -7,3 +7,6 @@
 - Contacts → выгрузка контактов
 - Notes → выгрузка примечаний
 - Tasks → выгрузка задач.
+
+[Blog](zabitov.ru)
+[Facebook](https://www.facebook.com/eldar.zabitov.5)
